@@ -10,6 +10,12 @@ We solve that problem with "Copy Editing Assistant for Writers." This script is 
 
 This script reads your markdown `.md` file. It randomly shuffles all the sentences and presents them to you one at a time. You can then do a search / replace thing to correct the errors that now jump out at you. 
 
+Run from terminal with:
+
+```bash
+python run-copy-editor.py --filename=PATH_TO_MARKDOWN_FILE
+```
+
 Use `TAB` to move between the inputs, `CURSOR LEFT` and `CURSOR RIGHT` jump through the sentences. `ENTER` saves your search/replace changes to a sentence and then advances to the next unseen sentence. 
 
 ![Screenshot of script in action](assets/screenshot-in-action-1.png)
@@ -37,6 +43,10 @@ The code is not smart enough to handle nonterminal periods (like `Dr.`, `Mrs.`, 
 Ergo, sometimes the sentences you're presented are odd or confusing. In those circumstances, just bull through like the proud battleship of language you are. *Rule Brittania!*
 
 (And yes, we know that `...` ellipses is not terminal punctuation, but darned if it isn't treated that way by the 99%.)
+
+## Install
+
+There is no install process or dependency handling. This script uses the excellent [picotui](https://github.com/pfalcon/picotui) for the user interface, and [pandas](https://github.com/pandas-dev/pandas) dataframes to store the data. You'll also want [textwrap](https://github.com/rtician/textwrap).
 
 ## Requests, updates, comments?
 
