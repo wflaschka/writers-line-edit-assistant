@@ -1,0 +1,25 @@
+Hello, here is a single-sentence paragraph. 
+
+This is the second.
+
+Sentences that end in different marks!
+
+What do you think?
+
+"A quoted sentence."
+
+"Multi sentence part one of two. Multi sentence part two of two."
+
+He said, "This sentence says, 'Hello there!'" And then he died mid-step.
+
+Hello, here is a single-sentence paragraph. 
+Here is a paragraph with two sentence. This is the second.
+Sentences that end in different marks! What do you think? This is a boring one. Here's another boring one.
+
+A paragraph after some spaces.
+
+"A quoted sentence."
+
+"One of two quoted sentences. Two of two quoted sentences."
+
+"A quoted sentence." Sentences that end in different marks! What do you think? This is a boring one. Here's another boring one. "One of two quoted sentences. Two of two quoted sentences." "A sentence with ellipses..." "A sentence with someone saying, 'Hi there, how are you?'" If you need this: do that. If we see something; our eyes are working.
