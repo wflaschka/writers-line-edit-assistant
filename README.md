@@ -1,8 +1,8 @@
-# Copy Editing Assistant for Writers
+# Amazing Copy Editing Assistant for Writers
 
-**A quick utility for writers. Writers know it's a pain to catch the typos and grammar errors in every sentence, especially when they've been staring at the article/story/manuscript for days, weeks, or years.** 
+**A quick utility for writers. Writers know it's a pain to catch the typos and grammar errors in every sentence, especially when they've been staring at the article/story/manuscript for hours, days, weeks, or years even.** 
 
-A common piece of advice to get around this *write-blindness* is to read the piece backwards, sentence by sentence, so one don't get swept away in the narrative flow. 
+A common piece of advice to get around this *write-blindness* is to read the piece backwards, sentence by sentence, so one doesn't get swept away in the narrative flow. 
 
 We solve that problem with "Copy Editing Assistant for Writers." This script is already in production use by our third-favorite author.
 
@@ -49,5 +49,3 @@ Ergo, sometimes the sentences you're presented are odd or confusing. In those ci
 There is no install process or dependency handling. This script uses the excellent [picotui](https://github.com/pfalcon/picotui) for the user interface, and [pandas](https://github.com/pandas-dev/pandas) dataframes to store the data. You'll also want [textwrap](https://github.com/rtician/textwrap).
 
 ## Requests, updates, comments?
-
-We know you haven't read this far.
